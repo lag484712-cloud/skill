@@ -1,0 +1,4 @@
+interface:
+  display_name: "生活·工作·助人行动助手"
+  short_description: "把生活安排、学习成长、工作推进和帮助他人的目标变成可执行成果"
+  default_prompt: "使用 $life-work-help，把我当前最重要的一件事拆成可执行步骤，并先完成你现在能做的部分。"
